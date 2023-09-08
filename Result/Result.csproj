@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Result</Title>
+        <Authors>mbabinski218</Authors>
+        <PackageId>mbabinski218.Result</PackageId>
+        <Copyright></Copyright>
+        <PackageProjectUrl></PackageProjectUrl>
+        <PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/mbabinski218/Result</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
